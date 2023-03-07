@@ -1,0 +1,15 @@
+/Users/joshue/Desktop/Ejercicio2/bin/Debug/net7.0/Ejercicio2
+/Users/joshue/Desktop/Ejercicio2/bin/Debug/net7.0/Ejercicio2.deps.json
+/Users/joshue/Desktop/Ejercicio2/bin/Debug/net7.0/Ejercicio2.runtimeconfig.json
+/Users/joshue/Desktop/Ejercicio2/bin/Debug/net7.0/Ejercicio2.dll
+/Users/joshue/Desktop/Ejercicio2/bin/Debug/net7.0/Ejercicio2.pdb
+/Users/joshue/Desktop/Ejercicio2/obj/Debug/net7.0/Ejercicio2.csproj.AssemblyReference.cache
+/Users/joshue/Desktop/Ejercicio2/obj/Debug/net7.0/Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshue/Desktop/Ejercicio2/obj/Debug/net7.0/Ejercicio2.AssemblyInfoInputs.cache
+/Users/joshue/Desktop/Ejercicio2/obj/Debug/net7.0/Ejercicio2.AssemblyInfo.cs
+/Users/joshue/Desktop/Ejercicio2/obj/Debug/net7.0/Ejercicio2.csproj.CoreCompileInputs.cache
+/Users/joshue/Desktop/Ejercicio2/obj/Debug/net7.0/Ejercicio2.dll
+/Users/joshue/Desktop/Ejercicio2/obj/Debug/net7.0/refint/Ejercicio2.dll
+/Users/joshue/Desktop/Ejercicio2/obj/Debug/net7.0/Ejercicio2.pdb
+/Users/joshue/Desktop/Ejercicio2/obj/Debug/net7.0/Ejercicio2.genruntimeconfig.cache
+/Users/joshue/Desktop/Ejercicio2/obj/Debug/net7.0/ref/Ejercicio2.dll
