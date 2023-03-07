@@ -13,7 +13,7 @@ class Concesionaria
   }
 
   public void AgregarAuto(Automovil a){
-    if(NoAct<=limite){
+    if(NoAct<=limite-){
         lista.add(a);
         NoAct=NoAct+1;
     }
@@ -25,7 +25,7 @@ class Concesionaria
   }
 
   public void EliminarAuto(Automovil a){
-    if(NoAct<=limite && lista.Cout != 0){
+    if(NoAct>0 && lista.Contains(a)){
         lista.Remove(a);
         NoAct=NoAct-1;
     }
