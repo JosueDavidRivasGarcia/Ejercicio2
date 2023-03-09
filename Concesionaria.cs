@@ -19,8 +19,8 @@ class Concesionaria
     if(a!=null && NoAct!=limite){
       Automovil? AutoEncontrado=Automoviles.Find((b)=>b.ID==a.ID);
       if(AutoEncontrado==null){
-      Automoviles.Add(a);
-      NumAct++;
+        Automoviles.Add(a);
+        NoAct=NoAct+1;
       }
     }
   }
@@ -35,7 +35,7 @@ class Concesionaria
           }
           */
           if(AutoEncontrado!= null){
-          Automoviles.Remove(a);
+          Automoviles.Remove(AutoEncontrado);
           NoAct--;
           }
       }
@@ -44,13 +44,13 @@ class Concesionaria
  public void MostrarAuto(string ID){
     Automovil? AutoEncontrado=Automoviles.Find((a)=>a.ID==ID);
     if(AutoEncontrado != null)
-     Console.WriteLine(a.ToString());
+     Console.WriteLine(AutoEncontrado.ToString());
   }
 
   public void MostrarAutomoviles(){
     foreach (Automovil item in Automoviles)
     {
-      Console.WriteLine(a.ToString());
+      Console.WriteLine(item.ToString());
     }
   }
 
