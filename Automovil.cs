@@ -2,15 +2,15 @@ namespace Ejercicio2;
 
 class Automovil
 {
-    public string ID;
-    public string Marca;
-    public int Modelo;
-    public int Km;
-    public double Precio;
+    public string ID {get; set;}
+    public string Marca {get; set;}
+    public string Modelo {get; set;}
+    public int Km {get; set;}
+    public double Precio {get; set;}
 
     public override string ToString()
     {
-        return $"ID: {ID}, Marca: {Marca}, Modelo: {Modelo}, KM: {Km}, Precio: {Precio} ";
+        return $"ID: {this.ID}, Marca: {this.Marca}, Modelo: {this.Modelo}, KM: {this.Km}, Precio: {this.Precio} ";
     }
 
 }
