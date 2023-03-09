@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{9425AC34-29AF-4042-B34F-781DE53A58DF}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ejercicio2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ejercicio2/Automovil.cs">
+    <Files>
+      <File FileName="Ejercicio2/Program.cs" Line="4" Column="1" />
+      <File FileName="Ejercicio2/Automovil.cs" Line="5" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ejercicio2" expanded="True">
+            <Node name="Ejercicio2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
