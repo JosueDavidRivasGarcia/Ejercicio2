@@ -11,11 +11,11 @@ class Automovil
         Precio = precio;
     }
 
-    public string ID {get; set;}
-    public string Marca {get; set;}
-    public string Modelo {get; set;}
-    public int Km {get; set;}
-    public double Precio {get; set;}
+    public string? ID {get; set;}
+    public string? Marca {get; set;}
+    public string? Modelo {get; set;}
+    public int? Km {get; set;}
+    public double? Precio {get; set;}
 
     public override string ToString()
     {

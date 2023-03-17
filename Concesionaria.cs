@@ -4,7 +4,7 @@ class Concesionaria
 {
   
 
-  Concesionaria(int limite){
+  public Concesionaria(int limite){
     Automoviles=new List<Automovil>();
     this.limite=limite;
     NoAct=0;
